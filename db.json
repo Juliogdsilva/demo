@@ -1,0 +1,79 @@
+{
+  "sellers": [
+    {
+      "id": 1,
+      "name": "Julio Silva",
+      "cpf": "427.137.258-00",
+      "phone": null,
+      "dam_number": "445",
+      "dam_type": null,
+      "association_member": false,
+      "association": null,
+      "neighborhood": "teste 1",
+      "accreditation": true,
+      "training": true,
+      "training_id": null,
+      "kit": false,
+      "kit_id": null,
+      "card": "SSGV0TJNAR"
+    },
+    {
+      "id": 2,
+      "name": "Joao Mollo",
+      "cpf": "088.345.232-30",
+      "phone": null,
+      "dam_number": "876",
+      "dam_type": null,
+      "association_member": null,
+      "association": null,
+      "neighborhood": "teste 2",
+      "accreditation": false,
+      "training": false,
+      "training_id": null,
+      "kit": false,
+      "kit_id": null
+    },
+    {
+      "id": 3,
+      "name": "Teste Bloqueio",
+      "cpf": "088.000.452-98",
+      "phone": "(11)9.9999-9999",
+      "dam_number": "495",
+      "dam_type": "Teste",
+      "association_member": true,
+      "association": "Associação Teste",
+      "neighborhood": "teste 2",
+      "accreditation": true,
+      "training": true,
+      "training_id": null,
+      "kit": true,
+      "kit_id": null
+    }
+  ],
+  "dam_type": [
+    {
+      "id": 1,
+      "type": "test"
+    }
+  ],
+  "users": [],
+  "kits": [
+    {
+      "name": "Kit 1",
+      "type": "teste",
+      "id": 1
+    }
+  ],
+  "trainings": [
+    {
+      "name": "Sessão 1",
+      "description": "Primeira Sessão ",
+      "id": 1
+    },
+    {
+      "name": "Sessão 2",
+      "description": "Segunda Sessão",
+      "id": 2
+    }
+  ]
+}
